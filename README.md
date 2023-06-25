@@ -1,6 +1,6 @@
 # Sentiment Analysis of IMDb dataset using neural networks
 
-Implemented sentiment analysis on IMDb movie review data using feed-forward neural networks and SGD optimizer. Achieved maximum validation accuracy of 88.5% in 10 Epochs.
+Implemented sentiment analysis on IMDb movie review data using feed-forward neural networks and SGD optimizer. Achieved maximum validation accuracy of 88.5% in 10 epochs.
 
 - Created feature matrices using BOW approach
 - Reduced the vocabulary size to save memory
